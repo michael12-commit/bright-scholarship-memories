@@ -1,0 +1,47 @@
+[
+ {
+  "name": "Kegiatan contoh 1 (placeholder)",
+  "date": "2026-01-15",
+  "location": "Lokasi contoh",
+  "category": "Akademik",
+  "description": "Deskripsi singkat kegiatan contoh. Ganti dengan data asli.",
+  "photo": "assets/images/placeholder.svg",
+  "people": "Pihak terlibat (isi jika diizinkan)"
+ },
+ {
+  "name": "Kegiatan contoh 2 (placeholder)",
+  "date": "2026-02-15",
+  "location": "Lokasi contoh",
+  "category": "Pengembangan Diri",
+  "description": "Deskripsi singkat kegiatan contoh. Ganti dengan data asli.",
+  "photo": "assets/images/placeholder.svg",
+  "people": "Pihak terlibat (isi jika diizinkan)"
+ },
+ {
+  "name": "Kegiatan contoh 3 (placeholder)",
+  "date": "2026-03-15",
+  "location": "Lokasi contoh",
+  "category": "Sosial",
+  "description": "Deskripsi singkat kegiatan contoh. Ganti dengan data asli.",
+  "photo": "assets/images/placeholder.svg",
+  "people": "Pihak terlibat (isi jika diizinkan)"
+ },
+ {
+  "name": "Kegiatan contoh 4 (placeholder)",
+  "date": "2026-04-15",
+  "location": "Lokasi contoh",
+  "category": "Kepemimpinan",
+  "description": "Deskripsi singkat kegiatan contoh. Ganti dengan data asli.",
+  "photo": "assets/images/placeholder.svg",
+  "people": "Pihak terlibat (isi jika diizinkan)"
+ },
+ {
+  "name": "Kegiatan contoh 5 (placeholder)",
+  "date": "2026-05-15",
+  "location": "Lokasi contoh",
+  "category": "Kebersamaan",
+  "description": "Deskripsi singkat kegiatan contoh. Ganti dengan data asli.",
+  "photo": "assets/images/placeholder.svg",
+  "people": "Pihak terlibat (isi jika diizinkan)"
+ }
+]

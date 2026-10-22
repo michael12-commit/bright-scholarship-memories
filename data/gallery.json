@@ -1,0 +1,92 @@
+[
+ {
+  "src": "assets/images/placeholder.svg",
+  "title": "Foto contoh 1 (placeholder)",
+  "date": "2026-01-01",
+  "location": "Lokasi contoh",
+  "caption": "Keterangan contoh. Ganti dengan foto dan cerita asli.",
+  "category": "Kebersamaan",
+  "size": "tall"
+ },
+ {
+  "src": "assets/images/placeholder.svg",
+  "title": "Foto contoh 2 (placeholder)",
+  "date": "2026-01-02",
+  "location": "Lokasi contoh",
+  "caption": "Keterangan contoh. Ganti dengan foto dan cerita asli.",
+  "category": "Kegiatan",
+  "size": "wide"
+ },
+ {
+  "src": "assets/images/placeholder.svg",
+  "title": "Foto contoh 3 (placeholder)",
+  "date": "2026-01-03",
+  "location": "Lokasi contoh",
+  "caption": "Keterangan contoh. Ganti dengan foto dan cerita asli.",
+  "category": "Pendidikan",
+  "size": ""
+ },
+ {
+  "src": "assets/images/placeholder.svg",
+  "title": "Foto contoh 4 (placeholder)",
+  "date": "2026-01-04",
+  "location": "Lokasi contoh",
+  "caption": "Keterangan contoh. Ganti dengan foto dan cerita asli.",
+  "category": "Pengabdian Masyarakat",
+  "size": ""
+ },
+ {
+  "src": "assets/images/placeholder.svg",
+  "title": "Foto contoh 5 (placeholder)",
+  "date": "2026-01-05",
+  "location": "Lokasi contoh",
+  "caption": "Keterangan contoh. Ganti dengan foto dan cerita asli.",
+  "category": "Momen Spesial",
+  "size": "tall"
+ },
+ {
+  "src": "assets/images/placeholder.svg",
+  "title": "Foto contoh 6 (placeholder)",
+  "date": "2026-01-06",
+  "location": "Lokasi contoh",
+  "caption": "Keterangan contoh. Ganti dengan foto dan cerita asli.",
+  "category": "Kebersamaan",
+  "size": "wide"
+ },
+ {
+  "src": "assets/images/placeholder.svg",
+  "title": "Foto contoh 7 (placeholder)",
+  "date": "2026-01-07",
+  "location": "Lokasi contoh",
+  "caption": "Keterangan contoh. Ganti dengan foto dan cerita asli.",
+  "category": "Kegiatan",
+  "size": ""
+ },
+ {
+  "src": "assets/images/placeholder.svg",
+  "title": "Foto contoh 8 (placeholder)",
+  "date": "2026-01-08",
+  "location": "Lokasi contoh",
+  "caption": "Keterangan contoh. Ganti dengan foto dan cerita asli.",
+  "category": "Pendidikan",
+  "size": ""
+ },
+ {
+  "src": "assets/images/placeholder.svg",
+  "title": "Foto contoh 9 (placeholder)",
+  "date": "2026-01-09",
+  "location": "Lokasi contoh",
+  "caption": "Keterangan contoh. Ganti dengan foto dan cerita asli.",
+  "category": "Pengabdian Masyarakat",
+  "size": "tall"
+ },
+ {
+  "src": "assets/images/placeholder.svg",
+  "title": "Foto contoh 10 (placeholder)",
+  "date": "2026-01-10",
+  "location": "Lokasi contoh",
+  "caption": "Keterangan contoh. Ganti dengan foto dan cerita asli.",
+  "category": "Momen Spesial",
+  "size": "wide"
+ }
+]

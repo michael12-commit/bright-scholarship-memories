@@ -1,0 +1,10 @@
+/* Penyesuaian tampilan untuk tablet dan HP */
+@media (max-width:860px){
+ #burger{display:inline-block}
+ .menu{display:none;position:absolute;top:64px;left:0;right:0;flex-direction:column;align-items:flex-start;gap:0;background:var(--bg);border-bottom:1px solid var(--line);padding:8px 20px 16px}
+ .menu.open{display:flex}.menu a{padding:10px 0;width:100%}
+ .hero .wrap,.story{grid-template-columns:1fr}.story:nth-child(even) img{order:0}
+ .timeline .card{grid-template-columns:1fr}.timeline .card img{aspect-ratio:16/9}
+ section{padding:52px 0}
+}
+@media (max-width:480px){.stats{grid-template-columns:1fr}.masonry .wide{grid-column:span 1}}
