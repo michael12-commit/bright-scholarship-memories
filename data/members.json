@@ -150,5 +150,45 @@
   "organizations": "Pengalaman organisasi contoh.",
   "dream": "Cita-cita contoh.",
   "contribution": "Kontribusi yang ingin diberikan, contoh."
+ },
+ {
+  "id": "m3",
+  "name": "Nama Anggota 7 (placeholder)",
+  "photo": "assets/images/placeholder.svg",
+  "university": "Universitas Andalas",
+  "major": "Kedokteran",
+  "year": 2026,
+  "interests": [
+   "Kesehatan",
+   "Sosial"
+  ],
+  "quote": "Contoh motto: ilmu untuk sesama.",
+  "bio": "Biografi singkat contoh. Ganti dengan cerita asli.",
+  "education": "Riwayat pendidikan contoh.",
+  "achievements": "Prestasi contoh.",
+  "organizations": "Pengalaman organisasi contoh.",
+  "dream": "Cita-cita contoh.",
+  "contribution": "Kontribusi yang ingin diberikan, contoh."
+ },
+ {
+  "id": "m4",
+  "name": "Nama Anggota 8 (placeholder)",
+  "photo": "assets/images/placeholder.svg",
+  "university": "Universitas Andalas",
+  "major": "Teknik Sipil",
+  "year": 2026,
+  "interests": [
+   "Desain",
+   "Lingkungan"
+  ],
+  "quote": "Contoh motto: membangun dari hal kecil.",
+  "bio": "Biografi singkat contoh. Ganti dengan cerita asli.",
+  "education": "Riwayat pendidikan contoh.",
+  "achievements": "Prestasi contoh.",
+  "organizations": "Pengalaman organisasi contoh.",
+  "dream": "Cita-cita contoh.",
+  "contribution": "Kontribusi yang ingin diberikan, contoh."
  }
 ]
+
+

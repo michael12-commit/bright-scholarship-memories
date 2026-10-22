@@ -52,41 +52,5 @@
   "caption": "Keterangan contoh. Ganti dengan foto dan cerita asli.",
   "category": "Kebersamaan",
   "size": "wide"
- },
- {
-  "src": "assets/images/placeholder.svg",
-  "title": "Foto contoh 7 (placeholder)",
-  "date": "2026-01-07",
-  "location": "Lokasi contoh",
-  "caption": "Keterangan contoh. Ganti dengan foto dan cerita asli.",
-  "category": "Kegiatan",
-  "size": ""
- },
- {
-  "src": "assets/images/placeholder.svg",
-  "title": "Foto contoh 8 (placeholder)",
-  "date": "2026-01-08",
-  "location": "Lokasi contoh",
-  "caption": "Keterangan contoh. Ganti dengan foto dan cerita asli.",
-  "category": "Pendidikan",
-  "size": ""
- },
- {
-  "src": "assets/images/placeholder.svg",
-  "title": "Foto contoh 9 (placeholder)",
-  "date": "2026-01-09",
-  "location": "Lokasi contoh",
-  "caption": "Keterangan contoh. Ganti dengan foto dan cerita asli.",
-  "category": "Pengabdian Masyarakat",
-  "size": "tall"
- },
- {
-  "src": "assets/images/placeholder.svg",
-  "title": "Foto contoh 10 (placeholder)",
-  "date": "2026-01-10",
-  "location": "Lokasi contoh",
-  "caption": "Keterangan contoh. Ganti dengan foto dan cerita asli.",
-  "category": "Momen Spesial",
-  "size": "wide"
  }
-]
+ ]
