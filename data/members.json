@@ -3,9 +3,9 @@
   "id": "m1",
   "name": "Nama Anggota 1 (placeholder)",
   "photo": "assets/images/placeholder.svg",
-  "university": "Universitas Contoh A",
+  "university": "Universitas Andalas",
   "major": "Informatika",
-  "year": 2024,
+  "year": 2026,
   "interests": [
    "Pemrograman",
    "Data"
@@ -22,9 +22,9 @@
   "id": "m2",
   "name": "Nama Anggota 2 (placeholder)",
   "photo": "assets/images/placeholder.svg",
-  "university": "Universitas Contoh B",
+  "university": "Universitas Andalas",
   "major": "Akuntansi",
-  "year": 2024,
+  "year": 2026,
   "interests": [
    "Keuangan",
    "Kepemimpinan"
@@ -41,9 +41,9 @@
   "id": "m3",
   "name": "Nama Anggota 3 (placeholder)",
   "photo": "assets/images/placeholder.svg",
-  "university": "Universitas Contoh A",
+  "university": "Universitas Andalas",
   "major": "Kedokteran",
-  "year": 2025,
+  "year": 2026,
   "interests": [
    "Kesehatan",
    "Sosial"
@@ -60,9 +60,85 @@
   "id": "m4",
   "name": "Nama Anggota 4 (placeholder)",
   "photo": "assets/images/placeholder.svg",
-  "university": "Universitas Contoh C",
+  "university": "Universitas Andalas",
   "major": "Teknik Sipil",
-  "year": 2025,
+  "year": 2026,
+  "interests": [
+   "Desain",
+   "Lingkungan"
+  ],
+  "quote": "Contoh motto: membangun dari hal kecil.",
+  "bio": "Biografi singkat contoh. Ganti dengan cerita asli.",
+  "education": "Riwayat pendidikan contoh.",
+  "achievements": "Prestasi contoh.",
+  "organizations": "Pengalaman organisasi contoh.",
+  "dream": "Cita-cita contoh.",
+  "contribution": "Kontribusi yang ingin diberikan, contoh."
+ }
+{
+  "id": "m1",
+  "name": "Nama Anggota 1 (placeholder)",
+  "photo": "assets/images/placeholder.svg",
+  "university": "Universitas Andalas",
+  "major": "Informatika",
+  "year": 2026,
+  "interests": [
+   "Pemrograman",
+   "Data"
+  ],
+  "quote": "Contoh motto: terus belajar, terus berbagi.",
+  "bio": "Biografi singkat contoh. Ganti dengan cerita asli.",
+  "education": "Riwayat pendidikan contoh.",
+  "achievements": "Prestasi contoh.",
+  "organizations": "Pengalaman organisasi contoh.",
+  "dream": "Cita-cita contoh.",
+  "contribution": "Kontribusi yang ingin diberikan, contoh."
+ },
+ {
+  "id": "m2",
+  "name": "Nama Anggota 2 (placeholder)",
+  "photo": "assets/images/placeholder.svg",
+  "university": "Universitas Andalas",
+  "major": "Akuntansi",
+  "year": 2026,
+  "interests": [
+   "Keuangan",
+   "Kepemimpinan"
+  ],
+  "quote": "Contoh motto: kecil tapi berdampak.",
+  "bio": "Biografi singkat contoh. Ganti dengan cerita asli.",
+  "education": "Riwayat pendidikan contoh.",
+  "achievements": "Prestasi contoh.",
+  "organizations": "Pengalaman organisasi contoh.",
+  "dream": "Cita-cita contoh.",
+  "contribution": "Kontribusi yang ingin diberikan, contoh."
+ },
+ {
+  "id": "m3",
+  "name": "Nama Anggota 3 (placeholder)",
+  "photo": "assets/images/placeholder.svg",
+  "university": "Universitas Andalas",
+  "major": "Kedokteran",
+  "year": 2026,
+  "interests": [
+   "Kesehatan",
+   "Sosial"
+  ],
+  "quote": "Contoh motto: ilmu untuk sesama.",
+  "bio": "Biografi singkat contoh. Ganti dengan cerita asli.",
+  "education": "Riwayat pendidikan contoh.",
+  "achievements": "Prestasi contoh.",
+  "organizations": "Pengalaman organisasi contoh.",
+  "dream": "Cita-cita contoh.",
+  "contribution": "Kontribusi yang ingin diberikan, contoh."
+ },
+ {
+  "id": "m4",
+  "name": "Nama Anggota 4 (placeholder)",
+  "photo": "assets/images/placeholder.svg",
+  "university": "Universitas Andalas",
+  "major": "Teknik Sipil",
+  "year": 2026,
   "interests": [
    "Desain",
    "Lingkungan"
