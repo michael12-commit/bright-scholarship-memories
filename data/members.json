@@ -1,7 +1,7 @@
 [
  {
   "id": "m1",
-  "name": "Nama Anggota 1 (placeholder)",
+  "name": "SABIRIL RAUF",
   "photo": "assets/images/placeholder.svg",
   "university": "Universitas Andalas",
   "major": "Informatika",
@@ -10,7 +10,7 @@
    "Pemrograman",
    "Data"
   ],
-  "quote": "Contoh motto: terus belajar, terus berbagi.",
+  "quote": "JADILAH MANUSIA YANG BISA MEMANUSIAKAN MANUSIA",
   "bio": "Biografi singkat contoh. Ganti dengan cerita asli.",
   "education": "Riwayat pendidikan contoh.",
   "achievements": "Prestasi contoh.",
@@ -20,13 +20,13 @@
  },
  {
   "id": "m2",
-  "name": "Nama Anggota 2 (placeholder)",
+  "name": "AGRI MAEFANDI",
   "photo": "assets/images/placeholder.svg",
   "university": "Universitas Andalas",
-  "major": "Akuntansi",
+  "major": "TEKNIK LINGKUNGAN",
   "year": 2026,
   "interests": [
-   "Keuangan",
+   "Lingkungan",
    "Kepemimpinan"
   ],
   "quote": "Contoh motto: kecil tapi berdampak.",
@@ -39,7 +39,7 @@
  },
  {
   "id": "m3",
-  "name": "Nama Anggota 3 (placeholder)",
+  "name": "M.NABIL HAKIMI",
   "photo": "assets/images/placeholder.svg",
   "university": "Universitas Andalas",
   "major": "Kedokteran",
@@ -58,7 +58,7 @@
  },
  {
   "id": "m4",
-  "name": "Nama Anggota 4 (placeholder)",
+  "name": "RIZKI PRATAMA",
   "photo": "assets/images/placeholder.svg",
   "university": "Universitas Andalas",
   "major": "Teknik Sipil",
@@ -76,8 +76,8 @@
   "contribution": "Kontribusi yang ingin diberikan, contoh."
  },
  {
-  "id": "m1",
-  "name": "Nama Anggota 5 (placeholder)",
+  "id": "m5",
+  "name": "MAHFUZH ARRASYID MUYASSAR",
   "photo": "assets/images/placeholder.svg",
   "university": "Universitas Andalas",
   "major": "Informatika",
@@ -95,8 +95,8 @@
   "contribution": "Kontribusi yang ingin diberikan, contoh."
  },
  {
-  "id": "m2",
-  "name": "Nama Anggota 6 (placeholder)",
+  "id": "m6",
+  "name": "MUHAMMAD RAIHAN",
   "photo": "assets/images/placeholder.svg",
   "university": "Universitas Andalas",
   "major": "Akuntansi",
@@ -114,8 +114,8 @@
   "contribution": "Kontribusi yang ingin diberikan, contoh."
  },
  {
-  "id": "m3",
-  "name": "Nama Anggota 7 (placeholder)",
+  "id": "m7",
+  "name": "ARDAFFA YAZID ILMANY",
   "photo": "assets/images/placeholder.svg",
   "university": "Universitas Andalas",
   "major": "Kedokteran",
@@ -133,8 +133,8 @@
   "contribution": "Kontribusi yang ingin diberikan, contoh."
  },
  {
-  "id": "m4",
-  "name": "Nama Anggota 8 (placeholder)",
+  "id": "m8",
+  "name": "DZAKY RAIF ALIVI",
   "photo": "assets/images/placeholder.svg",
   "university": "Universitas Andalas",
   "major": "Teknik Sipil",
@@ -152,8 +152,27 @@
   "contribution": "Kontribusi yang ingin diberikan, contoh."
  },
  {
-  "id": "m3",
-  "name": "Nama Anggota 7 (placeholder)",
+  "id": "m9",
+  "name": "PAJAR",
+  "photo": "assets/images/placeholder.svg",
+  "university": "Universitas Andalas",
+  "major": "Teknik Sipil",
+  "year": 2026,
+  "interests": [
+   "Desain",
+   "Lingkungan"
+  ],
+  "quote": "Contoh motto: membangun dari hal kecil.",
+  "bio": "Biografi singkat contoh. Ganti dengan cerita asli.",
+  "education": "Riwayat pendidikan contoh.",
+  "achievements": "Prestasi contoh.",
+  "organizations": "Pengalaman organisasi contoh.",
+  "dream": "Cita-cita contoh.",
+  "contribution": "Kontribusi yang ingin diberikan, contoh."
+ },
+ {
+  "id": "m10",
+  "name": "ZAINVALDO RIZKY A.A.",
   "photo": "assets/images/placeholder.svg",
   "university": "Universitas Andalas",
   "major": "Kedokteran",
@@ -171,8 +190,27 @@
   "contribution": "Kontribusi yang ingin diberikan, contoh."
  },
  {
-  "id": "m4",
-  "name": "Nama Anggota 8 (placeholder)",
+  "id": "m11",
+  "name": "M. NUR ZUHRI RAMADHAN",
+  "photo": "assets/images/placeholder.svg",
+  "university": "Universitas Andalas",
+  "major": "Teknik Sipil",
+  "year": 2026,
+  "interests": [
+   "Desain",
+   "Lingkungan"
+  ],
+  "quote": "Contoh motto: membangun dari hal kecil.",
+  "bio": "Biografi singkat contoh. Ganti dengan cerita asli.",
+  "education": "Riwayat pendidikan contoh.",
+  "achievements": "Prestasi contoh.",
+  "organizations": "Pengalaman organisasi contoh.",
+  "dream": "Cita-cita contoh.",
+  "contribution": "Kontribusi yang ingin diberikan, contoh."
+ },
+ {
+  "id": "m12",
+  "name": "SIRAD ALHADIF",
   "photo": "assets/images/placeholder.svg",
   "university": "Universitas Andalas",
   "major": "Teknik Sipil",
@@ -190,5 +228,11 @@
   "contribution": "Kontribusi yang ingin diberikan, contoh."
  }
 ]
+
+
+
+
+
+
 
 
